@@ -19,6 +19,7 @@ Working on this project expanded my perspective on balancing performance and rea
 Evolution in Writing Maintainable, Readable, and Adaptable Code
 
 This project reinforced the need for code clarity, modular design, and ample documentation. The use of meaningful function names, detailed comments, and well-organized code has made the program more maintainable and adaptable for future extensions. I now prioritize modularity and reusability in my code, which I recognize as crucial for long-term software development projects.
+
 Summary 
 
 Through these projects, I developed a more robust understanding of data structures and algorithmic efficiency. This experience has equipped me with a practical approach to problem-solving that considers both immediate and future maintainability needs, skills that will be valuable as I continue to grow in the field of software development.
